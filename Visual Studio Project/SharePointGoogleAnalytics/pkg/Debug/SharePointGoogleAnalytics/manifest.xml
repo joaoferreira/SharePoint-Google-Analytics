@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="1521510b-8ede-4fe5-b7f6-83a0a8f12101" SharePointProductVersion="15.0">
+  <FeatureManifests>
+    <FeatureManifest Location="SharePointGoogleAnalytics_GoogleAnalytics feature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

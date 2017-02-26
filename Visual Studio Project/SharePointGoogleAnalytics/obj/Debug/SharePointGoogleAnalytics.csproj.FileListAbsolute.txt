@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\SharePointGoogleAnalytics\SharePointGoogleAnalytics\bin\Debug\SharePointGoogleAnalytics.dll
+C:\Users\Administrator\Desktop\SharePointGoogleAnalytics\SharePointGoogleAnalytics\bin\Debug\SharePointGoogleAnalytics.pdb
+C:\Users\Administrator\Desktop\SharePointGoogleAnalytics\SharePointGoogleAnalytics\obj\Debug\SharePointGoogleAnalytics.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SharePointGoogleAnalytics\SharePointGoogleAnalytics\obj\Debug\SharePointGoogleAnalytics.dll
+C:\Users\Administrator\Desktop\SharePointGoogleAnalytics\SharePointGoogleAnalytics\obj\Debug\SharePointGoogleAnalytics.pdb

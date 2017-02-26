@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="This feature adds google analytics to all sites in this site collection without modifying the master page." Id="32e42e8c-7967-4008-981f-6e09e0188d3b" ImageUrl="GenericFeature.gif?spanalytics.png" Scope="Site" Title="SharePoint Google Analytics">
+  <ElementManifests>
+    <ElementManifest Location="AnalyticsCA\Elements.xml" />
+    <ElementManifest Location="Style Library\Elements.xml" />
+    <ElementFile Location="Style Library\GoogleAnalytics\js\ga.js" />
+    <ElementFile Location="Style Library\GoogleAnalytics\images\spanalytics.png" />
+  </ElementManifests>
+</Feature>

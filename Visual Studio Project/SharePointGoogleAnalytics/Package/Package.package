@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="1521510b-8ede-4fe5-b7f6-83a0a8f12101" solutionId="1521510b-8ede-4fe5-b7f6-83a0a8f12101" resetWebServer="false" sharePointProductVersion="15.0" name="SharePointGoogleAnalytics" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8b15470a-41b0-4ffc-b09f-eeb48c26b3d2" />
+  </features>
+</package>

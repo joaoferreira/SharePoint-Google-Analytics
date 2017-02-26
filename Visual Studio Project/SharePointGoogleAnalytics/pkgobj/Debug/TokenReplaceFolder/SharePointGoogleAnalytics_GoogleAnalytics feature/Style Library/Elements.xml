@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="StyleLibraryJS" Url="Style Library/GoogleAnalytics/js" RootWebOnly="FALSE" Path="Style Library\GoogleAnalytics\js">
+    <File Url="ga.js" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE"  />
+  </Module>
+  <Module Name="StyleLibraryIMAGES" Url="Style Library/GoogleAnalytics/images" RootWebOnly="FALSE" Path="Style Library\GoogleAnalytics\images">
+    <File Url="spanalytics.png" Type="GhostableInLibrary" Level="Published" ReplaceContent="TRUE"  />
+  </Module>
+</Elements>
